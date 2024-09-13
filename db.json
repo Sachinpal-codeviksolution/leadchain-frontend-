@@ -1,0 +1,28 @@
+{
+  "user":[
+  {
+    "id": 1,
+    "name": "John",
+    "username": "Bret",
+    "email": "Samantha@kent.com",
+    "phone": "1234567890",
+    "website": "jhon@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "suraj",
+    "username": "suraj",
+    "email": "suraj@kent.com",
+    "phone": "1234567890",
+    "website": "suraj@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "ajay",
+    "username": "ajay",
+    "email": "ajay@kent.com",
+    "phone": "1234567890",
+    "website": "ajay@gmail.com"
+  }
+]
+}
